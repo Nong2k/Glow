@@ -53,3 +53,4 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
   <li>Make sure all inputs are correct, then click <strong>Run workflow</strong> to start the process.</li>
   <li>Wait for the build to finish. You can download <strong>Glow for Facebook</strong> app from the releases section of your forked repo. (If you can't find the releases section, go to your forked repo and add /releases to the URL, i.e., github.com/user/Glow/releases.)</li>
 </ol>
+Test kích hoạt workflow
